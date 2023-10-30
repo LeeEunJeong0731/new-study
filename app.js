@@ -1,1 +1,4 @@
-console.log("hello world!");
+const a = "hello";
+const b = "Javascript";
+
+console.log(a, b);
