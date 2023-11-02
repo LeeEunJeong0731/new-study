@@ -1,4 +1,6 @@
-const a = "hello";
-const b = "Javascript";
+function puls(a,b){
 
-console.log(a, b);
+    return a+b
+}
+
+console.log(puls(10,5))
