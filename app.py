@@ -1,4 +1,2 @@
-def puls (a,b):
-    return a+b
-add = puls(5,10)
-print(add)
+for i in range(10):
+    print(str(i+1)) 
