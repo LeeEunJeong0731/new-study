@@ -1,8 +1,7 @@
-const num = 2
-if ( num % 2 == 0 ){
-  return console.log("짝수")
-}else{
-  return console.log("홀수")
-}
+const a = "hello"
 
-// %는 나머지 연산자!
+if (typeof(a)==="string") {
+   console.log("문자열입니다.");
+}else { 
+   console.log("문자열로 부탁두려용")
+}
