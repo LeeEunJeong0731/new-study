@@ -1,7 +1,6 @@
-num = 2
+x = 10
 
-if type(num) :
-    num
-    print("숫자입니다.")
-else : 
-    print ("숫자열로 부탁드려용")
+if x == 10 :
+    print ("10이 맞습니다.")
+else :
+    print ("10이 아닙니다.")
