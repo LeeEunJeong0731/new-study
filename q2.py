@@ -1,1 +1,2 @@
-print ("hello, Word!")
+a = 10
+print (a)
